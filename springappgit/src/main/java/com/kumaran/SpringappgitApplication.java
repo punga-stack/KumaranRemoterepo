@@ -8,7 +8,7 @@ public class SpringappgitApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringappgitApplication.class, args);
-	//abilazh
+	//punga
 	}
 
 }
